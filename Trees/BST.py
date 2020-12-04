@@ -88,4 +88,5 @@ tree.insert(3)
 tree.insert(1)
 tree.insert(2)
 
+print("Print tree using inorder traversal")
 tree.print()
